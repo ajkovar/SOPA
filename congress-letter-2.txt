@@ -1,6 +1,6 @@
 I wanted to send this message to remind you that SOPA needs to be stopped.
 
-People are already creating tools to get around it and it hasn't even been passed yet! Right here is a firefox plugin that automatically bypass the DNS blocking mechanism of SOPA: https://addons.mozilla.org/en-US/firefox/addon/desopa/.  Anyone can install this.  No technical know how is required.  This demonstrates just how easy SOPA is to bypass for anyone interested in pirating content.
+People are already creating tools to get around it and it hasn't even been passed yet! Right here is a firefox plugin that automatically bypasses the DNS blocking mechanism of SOPA: https://addons.mozilla.org/en-US/firefox/addon/desopa/.  Anyone can install this.  No technical know how is required.  This demonstrates just how easy SOPA is to bypass for anyone interested in pirating content.
 
 While this bill will not be difficult to get around, it *will* fracture the internet!  Cultural and intellectual richness *depend* on the free flowing of ideas!  Fracturing the internet into different subsets will greatly impede this!
 
